@@ -1,4 +1,4 @@
-# PROJECT SPOTIFY 🐶🐱🐡
+# PROJECT SPOTIFY
 
 ## Music For Everyone ! 🎼 you can search your favourite artists and albums 🎺🎸🎧
 
